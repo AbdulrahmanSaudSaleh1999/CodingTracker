@@ -1,7 +1,14 @@
-﻿MyMethod();
-void MyMethod()
+﻿void MethodOne()
 {
-    Console.WriteLine("Hello, C# Academy! One more modification now inside a method");
-
+    ///
 }
 
+void MethodTwo()
+{
+    ///
+}
+
+void MethodThree()
+{
+    ///
+}
