@@ -1,2 +1,7 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, C# Academy! One more modification");
+﻿MyMethod();
+void MyMethod()
+{
+    Console.WriteLine("Hello, C# Academy! One more modification now inside a method");
+
+}
+
